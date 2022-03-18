@@ -1,3 +1,3 @@
 # gestaoconvidados
 Gestão de Convidados
-https://helton-gestao-convidados.herokuapp.com/convidados
+Este projeto deixei somente em local host, em breve subirei no heroku também.
